@@ -13,4 +13,5 @@ So, now I'm using this site as catch-all for software projects that people might
 - [Anso Designs](https://github.com/ansodesigns)
 - [dennisdunn](https://github.com/dennisdunn)
 - [WorldVax](https://github.com/worldvax)
-- [KE8HMV](https://github.com/ke8hmv)
+- [OpenCdsi.org](https://opencdsi.github.io)
+- [AE0TR](https://ae0tr.github.io)
